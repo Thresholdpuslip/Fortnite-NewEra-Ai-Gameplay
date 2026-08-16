@@ -116,3 +116,8 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
+
+
+<!-- update: A -->
+
+> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
