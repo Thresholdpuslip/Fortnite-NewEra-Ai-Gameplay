@@ -118,6 +118,6 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
